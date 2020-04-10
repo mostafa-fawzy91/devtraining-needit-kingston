@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_header_map">
+    <sys_ws_header_map action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ws_header_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 10:29:19</sys_created_on>
+        <sys_id>14ad16e507001010d2c4f1d08c1ed06a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a59a926507001010d2c4f1d08c1ed0bd</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_header_map_14ad16e507001010d2c4f1d08c1ed06a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 10:29:19</sys_updated_on>
+        <web_service_header display_value="Authorization">a59a926507001010d2c4f1d08c1ed0bd</web_service_header>
+        <web_service_operation display_value="NeedIt Post Method">7d49d22507001010d2c4f1d08c1ed0c5</web_service_operation>
+    </sys_ws_header_map>
+</record_update>

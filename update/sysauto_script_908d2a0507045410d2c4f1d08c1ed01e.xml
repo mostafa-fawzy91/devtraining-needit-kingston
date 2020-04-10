@@ -14,8 +14,7 @@
         <run_start>2020-04-06 22:21:35</run_start>
         <run_time>1970-01-01 08:00:00</run_time>
         <run_type>on_demand</run_type>
-        <script><![CDATA[
-var recordsToMake = 1200;
+        <script><![CDATA[var recordsToMake = 1200;
 var x = new glideRecord('x_58872_needit_needit');
 
 while(recordsToMake > 0)
@@ -31,14 +30,14 @@ x.assigned_to = "beth.anglin";
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-06 22:23:47</sys_created_on>
         <sys_id>908d2a0507045410d2c4f1d08c1ed01e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Generate Random NeedIt Records.</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sysauto_script_908d2a0507045410d2c4f1d08c1ed01e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-06 22:39:01</sys_updated_on>
+        <sys_updated_on>2020-04-09 11:48:47</sys_updated_on>
         <time_zone/>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>
